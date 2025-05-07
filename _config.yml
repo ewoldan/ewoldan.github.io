@@ -1,4 +1,2 @@
 title: Emilia Woldan
-description: Minimalist Portfolio
-theme: minima
-markdown: kramdown
+theme: jekyll-theme-minimal
