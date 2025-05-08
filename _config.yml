@@ -1,2 +1,32 @@
 title: Emilia Woldan
-theme: jekyll-theme-minimal
+email: emiliawoldann@gmail.com
+description: >- # 
+I’m someone who loves solving problems and making things run smoother. I’ve worked across program management, business analytics, and systems design, bringing structure to projects and clarity through data. I’m all about making sure business and tech actually speak the same language.
+I thrive on the challenge of bringing order to chaos, whether that’s in data, systems, or projects.
+baseurl: "https://emiliawoldan.substack.com/" # the subpath of your site, e.g. /blog
+url: "https://ewoldan.github.io/" # your GitHub Pages URL
+
+theme: minimal-mistakes-jekyll
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-archives
+  - jekyll-paginate
+  - jekyll-paginate-v2
+
+markdown: kramdown
+highlighter: rouge
+
+author:
+  name   : "Emilia Woldan"
+  avatar : "/assets/images/avatar.png"
+  bio    : "Business & Data Analyst"
+  location: "Amsterdam, Netherlands"
+  links:
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://www.linkedin.com/in/emilia-woldan/"
+    - label: "GitHub"
+      icon: "fab fa-github"
+      url: "https://github.com/ewoldan"
